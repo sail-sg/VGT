@@ -7,7 +7,7 @@ This is the pytorch implementation of our paper accepted to ECCV'22: Video Graph
 </div>
 
 ## Todo
-1. [x] Release feature of TGIF-QA [Valid for 2 weeks from 2022/8/3].
+1. [x] Release feature of TGIF-QA + MSRVTT-QA [temporally access].
 
 ## Environment
 Assume you have installed Anaconda, please do the following to setup the envs:
@@ -75,7 +75,7 @@ python eval_next.py --folder VGT --mode val
     <td>feats</td>
      <td><a href="https://drive.google.com/file/d/11ka3AyaZIP2kLeKboyvYlRsCLSors5Ov/view?usp=sharing">feats</a></td>
     <td><a href="https://drive.google.com/file/d/1F_db7JcfkuP5TC8DSRlblH2nP2_fdw9C/view?usp=sharing">feats</a></td>
-    <td>feats</td>
+    <td><a href="https://drive.google.com/file/d/14efO-eeYFSKKPhhG3AUqJLOONm80xDo8/view?usp=sharing">feats</a></td>
   </tr>
   <tr>
     <td>-</td>
