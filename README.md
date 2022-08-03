@@ -6,6 +6,9 @@ This is the pytorch implementation of our paper accepted to ECCV'22: Video Graph
   <img width="50%" alt="VGT vs VGT without DGT" src="./misc/VGT.png">
 </div>
 
+## Todo
+1. [x] Release feature of TGIF-QA [Valid for 2 weeks from 2022/8/3].
+
 ## Environment
 Assume you have installed Anaconda, please do the following to setup the envs:
 ```
@@ -65,13 +68,13 @@ python eval_next.py --folder VGT --mode val
     <td>-</td>
   </tr>
   <tr>
-    <td>-</td>
+   <td>-</td>
     <td><a href="https://drive.google.com/file/d/19TRupHHAP9m0eE9n3b2HMcliiJE9VGcN/view?usp=sharing">feats</a></td>
+    <td><a href="https://drive.google.com/file/d/11ka3AyaZIP2kLeKboyvYlRsCLSors5Ov/view?usp=sharing">feats</a></td>
+    <td><a href="https://drive.google.com/file/d/1F_db7JcfkuP5TC8DSRlblH2nP2_fdw9C/view?usp=sharing">feats</a></td>
     <td>feats</td>
-    <td>feats</td>
-    <td>feats</td>
-    <td>feats</td>
-    <td>feats</td>
+     <td><a href="https://drive.google.com/file/d/11ka3AyaZIP2kLeKboyvYlRsCLSors5Ov/view?usp=sharing">feats</a></td>
+    <td><a href="https://drive.google.com/file/d/1F_db7JcfkuP5TC8DSRlblH2nP2_fdw9C/view?usp=sharing">feats</a></td>
     <td>feats</td>
   </tr>
   <tr>
