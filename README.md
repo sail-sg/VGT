@@ -72,7 +72,7 @@ python eval_next.py --folder VGT --mode val
     <td><a href="https://drive.google.com/file/d/19TRupHHAP9m0eE9n3b2HMcliiJE9VGcN/view?usp=sharing">feats</a></td>
     <td><a href="https://drive.google.com/file/d/11ka3AyaZIP2kLeKboyvYlRsCLSors5Ov/view?usp=sharing">feats</a></td>
     <td><a href="https://drive.google.com/file/d/1F_db7JcfkuP5TC8DSRlblH2nP2_fdw9C/view?usp=sharing">feats</a></td>
-    <td>feats</td>
+    <td><a href="https://drive.google.com/file/d/1SjsiiJiqXQWDFu26t-FFMv6-X7bBSsEM/view?usp=sharing">feats</a></td>
      <td><a href="https://drive.google.com/file/d/11ka3AyaZIP2kLeKboyvYlRsCLSors5Ov/view?usp=sharing">feats</a></td>
     <td><a href="https://drive.google.com/file/d/1F_db7JcfkuP5TC8DSRlblH2nP2_fdw9C/view?usp=sharing">feats</a></td>
     <td><a href="https://drive.google.com/file/d/14efO-eeYFSKKPhhG3AUqJLOONm80xDo8/view?usp=sharing">feats</a></td>
@@ -123,5 +123,7 @@ It will train the model and save to the folder 'save_models/nextqa/'
 ```
 ## Acknowledgements
 Some code are token from [VQA-T](https://github.com/antoyang/just-ask). Thanks the auhtors for their great work and code.
+## Notes
+If you use any resources (feature & code & models) from this repo, please kindly cite our paper and acknowledge the source.
 ## License
 This repository is released under the Apache 2.0 license as found in the [LICENSE](LICENSE) file.
