@@ -1,5 +1,6 @@
 # [VGT](https://arxiv.org/abs/2207.05342)
-This is the pytorch implementation of our paper accepted to ECCV'22: Video Graph Transformer for Video Question Answering
+This is the pytorch implementation of our paper accepted to ECCV'22: Video Graph Transformer for Video Question Answering.
+See our [poster](https://doc-doc.github.io/docs/VGT-ECCV22-poster.pdf) for a quick overview of the work
 
 <!-- ![teaser](misc/VGT.png) -->
 <div align="center">
