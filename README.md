@@ -7,7 +7,7 @@ model to advance VideoQA from coarse recognition and scene-level description to 
 
 - We design <b>dynamic graph transformer (DGT) </b> to encode visual graph dynamics for relation reasoning in space-time. 
 - We demonstrate that supervised <b>contrastive learning</b> significantly outperforms classification for multi-choice cross-modal video understanding.
-- A fine-grained cross-modal interaction can help improve performance.
+- We demonstrate that a fine-grained cross-modal interaction can help improve performance.
 </details>
 
 See our [poster](https://doc-doc.github.io/docs/VGT-ECCV22-poster.pdf) at ECCV'22 for a quick overview of the work.
