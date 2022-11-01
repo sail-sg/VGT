@@ -1,6 +1,16 @@
-# [VGT](https://arxiv.org/abs/2207.05342)
-This is the pytorch implementation of our paper accepted to ECCV'22: Video Graph Transformer for Video Question Answering.
-See our [poster](https://doc-doc.github.io/docs/VGT-ECCV22-poster.pdf) for a quick overview of the work
+# [VGT](https://arxiv.org/abs/2207.05342): Video Graph Transformer for Video Question Answering
+<details open>
+<summary> <b>Introduction</b> </summary>
+
+Existing transformer-style models only demonstrate their success in answering questions that involve the coarse recognition or scene-level description of video contents. Their performance remains either unknown or weak in answering questions that emphasize <b>fine-grained visual relation reasoning</b>, especially the <b>causal</b> and <b>temporal</b> relations that feature video <b>dynamics at action and event level</b>. In this paper, we propose Video Graph Transformer (VGT) 
+model to advance VideoQA from coarse recognition and scene-level description to fine-gained visual relation reasoning and cognition-level understanding of the dynamic visual contents. Specifically, we make the following contributions:
+
+- We design <b>dynamic graph transformer (DGT) </b> to encode visual graph dynamics for relation reasoning in space-time. 
+- We demonstrate that supervised <b>contrastive learning</b> significantly outperforms classification for multi-choice cross-modal video understanding.
+- A fine-grained cross-modal interaction can help improve performance.
+</details>
+
+See our [poster](https://doc-doc.github.io/docs/VGT-ECCV22-poster.pdf) at ECCV'22 for a quick overview of the work.
 
 <!-- ![teaser](misc/VGT.png) -->
 <div align="center">
@@ -8,7 +18,7 @@ See our [poster](https://doc-doc.github.io/docs/VGT-ECCV22-poster.pdf) for a qui
 </div>
 
 ## Todo
-1. [x] Release feature of TGIF-QA + MSRVTT-QA [temporally access].
+1. [x] Release feature of TGIF-QA + MSRVTT-QA [temporally access, email us if needed.].
 
 ## Environment
 Assume you have installed Anaconda, please do the following to setup the envs:
