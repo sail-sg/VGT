@@ -2,12 +2,12 @@
 <details open>
 <summary> <b>Introduction</b> </summary>
 
-Existing transformer-style models only demonstrate their success in answering questions that involve the coarse recognition or scene-level description of video contents. Their performance remains either unknown or weak in answering questions that emphasize <b>fine-grained visual relation reasoning</b>, especially the <b>causal</b> and <b>temporal</b> relations that feature video <b>dynamics at action and event level</b>. In this paper, we propose Video Graph Transformer (VGT) 
+Existing transformer-style models only demonstrate their success in answering questions that involve the coarse recognition or scene-level description of video contents. Their performance remains either unknown or weak in answering questions that emphasize <b>fine-grained visual relation reasoning</b>, especially the <b>causal</b> and <b>temporal</b> relations that feature video <b>dynamics at action and event level</b>. In this paper, we propose <b>Video Graph Transformer (VGT)</b> 
 model to advance VideoQA from coarse recognition and scene-level description to fine-gained visual relation reasoning and cognition-level understanding of the dynamic visual contents. Specifically, we make the following contributions:
 
 - We design <b>dynamic graph transformer (DGT) </b> to encode visual graph dynamics for relation reasoning in space-time. 
-- We demonstrate that supervised <b>contrastive learning</b> significantly outperforms classification for multi-choice cross-modal video understanding.
-- We demonstrate that a fine-grained cross-modal interaction can help improve performance.
+- We demonstrate that supervised <b>contrastive learning</b> significantly outperforms classification for multi-choice cross-modal video understanding. Also, a <b>fine-grained</b> cross-modal interaction can help improve performance.
+- We demonstrate that pretraining visual graph transformer can benefit video-language understanding towards a more <b>data-efficient</b> and <b>fine-grained</b> direction.
 </details>
 
 See our [poster](https://doc-doc.github.io/docs/VGT-ECCV22-poster.pdf) at ECCV'22 for a quick overview of the work.
