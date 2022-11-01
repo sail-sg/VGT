@@ -115,11 +115,13 @@ It will train the model and save to the folder 'save_models/nextqa/'
 
 ## Citation 
 ```
-@article{xiao2022video,
-	  title={Video Graph Transformer for Video Question Answering},
-	  author={Xiao, Junbin and Zhou, Pan and Chua, Tat-Seng and Yan, Shuicheng},
-	  journal={arXiv preprint arXiv:2207.05342},
-	  year={2022}
+@inproceedings{xiao2022video,
+  title={Video Graph Transformer for Video Question Answering},
+  author={Xiao, Junbin and Zhou, Pan and Chua, Tat-Seng and Yan, Shuicheng},
+  booktitle={European Conference on Computer Vision},
+  pages={39--58},
+  year={2022},
+  organization={Springer}
 }
 ```
 ## Acknowledgements
