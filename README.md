@@ -135,7 +135,7 @@ It will train the model and save to the folder 'save_models/nextqa/'
 }
 ```
 ## Acknowledgements
-Some code are token from [VQA-T](https://github.com/antoyang/just-ask). Thanks the auhtors for their great work and code.
+Some code is token from [VQA-T](https://github.com/antoyang/just-ask), and our video feature extraction is inspired by [HQGA](https://github.com/doc-doc/HQGA). Thanks the authors for their great work and code.
 ## Notes
 If you use any resources (feature & code & models) from this repo, please kindly cite our paper and acknowledge the source.
 ## License
