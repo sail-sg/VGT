@@ -10,7 +10,7 @@ model to advance VideoQA from coarse recognition and scene-level description to 
 - We demonstrate that pretraining visual graph transformer can benefit video-language understanding towards a more <b>data-efficient</b> and <b>fine-grained</b> direction.
 </details>
 
-See our [poster](https://doc-doc.github.io/docs/VGT-ECCV22-poster.pdf) at ECCV'22 for a quick overview of the work.
+See our [poster](https://doc-doc.github.io/docs/VGT-ECCV22-poster.pdf) at ECCV'22 for a quick overview of the work. An extended version [CoVGT](https://arxiv.org/abs/2302.13668)
 
 <!-- ![teaser](misc/VGT.png) -->
 <div align="center">
