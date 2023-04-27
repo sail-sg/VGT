@@ -109,7 +109,7 @@ python eval_next.py --folder VGT --mode val
     <td><a href="https://drive.google.com/file/d/1vstHqtgZQBkPzzRTZo-Nb15rAQ4b7gOl/view?usp=sharing">Q&A</a></td>
   </tr>
 </table>
-(We have merged some files of the same dataset to avoid too many links.)
+(We have merged some files of the same dataset to avoid too many links. *: resolve the answer bias issue in TGIF-QA by regenerating the distractor answers.)
 
 ## Train
 We have provided all the scripts in the folder 'shells', you can start your training by specifying the GPU IDs behind the script. (If you have multiple GPUs, you can separate them with comma: ./shell/nextqa_train.sh 0,1)
