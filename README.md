@@ -90,7 +90,7 @@ python eval_next.py --folder VGT --mode val
   </tr>
   <tr>
     <td>-</td>
-    <td><a href="https://xdshang.github.io/docs/vidor.html">train&val</a>+<a href="https://drive.google.com/file/d/12WCsaOOlDQNaXILSxvL-hIM3TxV15dV3/view?usp=sharing">test</a></td>
+    <td><a href="https://drive.google.com/file/d/1jTcRCrVHS66ckOUfWRb-rXdzJ52XAWQH/view">videos</a></td>
     <td>videos</td>
     <td>videos</td>
     <td>videos</td>
