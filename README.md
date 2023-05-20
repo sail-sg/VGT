@@ -116,7 +116,7 @@ We have provided all the scripts in the folder 'shells', you can start your trai
 ```
 ./shell/nextqa_train.sh 0
 ```
-It will train the model and save to the folder 'save_models/nextqa/'
+It will train the model and save to the folder 'save_models/nextqa/'. Please follow a two-stage training by firstly training the model and then freezing the language model to finetune on the best model obatined in the fisrt stage.
 
 ### Result Visualization (NExT-QA)
 <div align="center">
