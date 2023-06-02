@@ -86,7 +86,7 @@ python eval_next.py --folder VGT --mode val
     <td>feats</td>
     <td>feats</td>
     <td>feats</td>
-    <td>feats</td>
+    <td><a href="https://drive.google.com/file/d/1sae3hT_B9e7LrEoKdYz2htXftEkhXelZ/view?usp=sharing">feats</a></td>
   </tr>
   <tr>
     <td>-</td>
