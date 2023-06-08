@@ -18,7 +18,7 @@ See our [poster](https://doc-doc.github.io/docs/VGT-ECCV22-poster.pdf) at ECCV'2
 </div>
 
 ## Todo
-1. [x] Release feature of TGIF-QA + MSRVTT-QA [temporally access, email us if needed.].
+1. [x] Release feature of MSRVTT-QA.
 
 ## Environment
 Assume you have installed Anaconda, please do the following to setup the envs:
